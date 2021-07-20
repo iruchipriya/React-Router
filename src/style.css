@@ -1,0 +1,9 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.active {
+  color: crimson;
+  font-weight: bold;
+}
